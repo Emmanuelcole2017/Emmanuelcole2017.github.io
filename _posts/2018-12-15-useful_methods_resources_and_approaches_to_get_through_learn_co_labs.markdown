@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Useful methods, resources and approaches to get through Learn.co labs.**"
-date:       2018-12-15 11:05:56 +0000
+title:      "Useful methods, resources and approaches to get through Learn.co labs."
+date:       2018-12-15 06:05:57 -0500
 permalink:  useful_methods_resources_and_approaches_to_get_through_learn_co_labs
 ---
 
