@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "formatted like this"
+title:      "Key concepts of Hashes"
 date:       2019-01-08 11:51:07 -0500
 permalink:  formatted_like_this
 ---
 
-### Key concepts of Hashes
 
 **Key - Value Pairs**
 
